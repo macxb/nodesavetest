@@ -1,0 +1,11 @@
+[gd_scene format=2]
+
+[node name="Save_Button" type="Button"]
+margin_left = 147.0
+margin_right = 188.0
+margin_bottom = 40.0
+text = "save"
+flat = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
